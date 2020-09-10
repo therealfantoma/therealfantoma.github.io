@@ -51,7 +51,7 @@
 
 <a href="https://twitter.com/therealfantoma" class="fa fa-twitter"></a>
 
-<a href="#" class="fa fa-yahoo"></a>
+<a href="fmakiavel@yahoo.fr" class="fa fa-yahoo"></a>
 
 <a href="https://github.com/therealfantoma/" class="fa fa-github"></a>
 
