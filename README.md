@@ -1,4 +1,5 @@
-# The Merlot theme
+# Fantoma's blog
+# Credit to The Merlot theme
 
 [![Build Status](https://travis-ci.org/pages-themes/merlot.svg?branch=master)](https://travis-ci.org/pages-themes/merlot) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-merlot.svg)](https://badge.fury.io/rb/jekyll-theme-merlot)
 
